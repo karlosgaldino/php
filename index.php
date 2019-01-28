@@ -1,3 +1,4 @@
 <?php
-	echo "Hello Word";
+	echo "Bem vindo ao meus arquivos PHP";
+
 ?>
